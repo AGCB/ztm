@@ -1,4 +1,5 @@
 import "./App.css";
+import HomePage from "./homepage.component.jsx";
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <header className="App-header">
         <h1>ZTM</h1>
       </header>
+      <HomePage />
     </div>
   );
 }
