@@ -1,5 +1,6 @@
 import React from "react";
 import "./homepage.styles.scss";
+
 const HomePage = () => {
   return (
     <div className="homepage">
@@ -30,7 +31,7 @@ const HomePage = () => {
         </div>
         <div className="menu-item">
           <div className="content">
-            <h1 className="title"></h1>
+            <h1 className="title">JACKETS</h1>
             <h1 className="subtitle">SHOP</h1>
           </div>
         </div>
