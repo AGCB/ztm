@@ -1,0 +1,5 @@
+- react router 6 replaces Switches with Routes.
+- using query params is different as well.
+  - we dont pass query params down as props anymore.
+  - the useParams() hook is used.
+  - I used this [link](https://christianhur.com/how-to-access-url-parameters-using-react-router-6/).
