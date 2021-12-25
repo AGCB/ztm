@@ -13,6 +13,7 @@ function App() {
       <Routes>
         <Route exact path={"/"} element={<HomePage />} />
         <Route path={"/about/:userId"} element={<AboutPage />} />
+        <Route path={"/about"} element={<AboutPage />} />
       </Routes>
     </div>
   );
