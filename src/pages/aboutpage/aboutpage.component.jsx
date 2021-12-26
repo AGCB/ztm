@@ -8,6 +8,7 @@ const AboutPage = () => {
   return (
     <div className="aboutpage">
       <h1>ABOUT PAGE</h1>
+      <span>{String(userId)}</span>
     </div>
   );
 };
